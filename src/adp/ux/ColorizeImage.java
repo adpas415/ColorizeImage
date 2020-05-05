@@ -1,4 +1,4 @@
-package colorize;
+package adp.ux;
 
 import java.awt.*;
 import java.awt.image.*;
